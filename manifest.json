@@ -1,0 +1,10 @@
+{
+  "name": "PortalPeek_XPN_Bridge",
+  "version_number": "1.1.0",
+  "website_url": "",
+  "description": "Makes Portal Peek work with one-way portal links (XPortalNetworks): every portal you visit is recorded, so portals leading to it show it, and each portal keeps a day and a night view. Client-side.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "tboods-PortalPeek-1.0.0"
+  ]
+}
